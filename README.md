@@ -1,5 +1,5 @@
 
-## My Setup <img src="https://github.com/AlexandrosLiaskos/Alexandros-Liaskos/assets/128935863/1de6b213-d86a-44b7-897e-c086e9e2eced" width="25" height="25">
+## My Setup <img src="https://github.com/AlexandrosLiaskos/Alexandros-Liaskos/assets/128935863/1de6b213-d86a-44b7-897e-c086e9e2eced" width="30" height="30">
 
 
 - **Laptop:** Asus Zenbook 14x Space Edition
