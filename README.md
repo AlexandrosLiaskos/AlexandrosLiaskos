@@ -7,7 +7,9 @@
 
 <img src="https://github.com/AlexandrosLiaskos/AlexandrosLiaskos/assets/128935863/6159bb72-42ea-4bc3-9199-457e53f76878" width="50" height="30" style="vertical-align: bottom;"> 
 
+<img src="https://github.com/AlexandrosLiaskos/AlexandrosLiaskos/assets/128935863/16fe88ca-ce70-4a70-baf7-54c9d63d6978" width="50" height="30" style="vertical-align: bottom;"> 
 
+![image]()
 Bash, Python
 - **Learning:** Elixir, Gleam
 
