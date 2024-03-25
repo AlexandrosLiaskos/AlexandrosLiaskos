@@ -1,3 +1,5 @@
+https://github.com/AlexandrosLiaskos/AlexandrosLiaskos/assets/128935863/28af794c-a729-476f-9261-d44a07d71055
+
 <p align="center">
   <img src="https://github.com/AlexandrosLiaskos/AlexandrosLiaskos/assets/128935863/a34c0c08-9b04-49e2-bb70-68a7d32fe54e" alt="Neofetch Screenshot" style="border: 2px solid #000; border-radius: 10px;">
 </p>
