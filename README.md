@@ -4,7 +4,7 @@
 
 ## <img src="https://github.com/AlexandrosLiaskos/Alexandros-Liaskos/assets/128935863/1de6b213-d86a-44b7-897e-c086e9e2eced" width="30" height="30" style="vertical-align: bottom;" alt="My Setup"> Programming
 <img src="https://github.com/AlexandrosLiaskos/AlexandrosLiaskos/assets/128935863/27f41921-c69d-4904-b82b-6521db4dce1e" width="50" height="30" style="vertical-align: bottom;" > 
-<img src="https://github.com/AlexandrosLiaskos/AlexandrosLiaskos/assets/128935863/3e487d4b-48a7-4488-90d3-fa7e5d41cc78" width="50" height="50" style="vertical-align: bottom;" color=white> 
+<img src="https://github.com/AlexandrosLiaskos/AlexandrosLiaskos/assets/128935863/3e487d4b-48a7-4488-90d3-fa7e5d41cc78" width="50" height="30" style="vertical-align: bottom;"> 
 
 Bash, Python
 - **Learning:** Elixir, Gleam
