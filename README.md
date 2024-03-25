@@ -7,33 +7,34 @@
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="50" height="50" style="border-radius: 25%;"/>
+        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="60" height="60" style="transform: rotate(20deg);"/>
     </a>
     <a href="https://golang.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="50" height="50" style="border-radius: 25%;"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="60" height="60" style="transform: rotate(-20deg);"/>
     </a>
     <a href="https://gohugo.io/" target="_blank" rel="noreferrer">
-        <img src="https://api.iconify.design/logos-hugo.svg" alt="Hugo" width="50" height="50" style="border-radius: 25%;"/>
+        <img src="https://api.iconify.design/logos-hugo.svg" alt="Hugo" width="60" height="60" style="transform: rotate(20deg);"/>
     </a>
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50" style="border-radius: 25%;"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="60" height="60" style="transform: rotate(-20deg);"/>
     </a>
     <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50" style="border-radius: 25%;"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="60" height="60" style="transform: rotate(20deg);"/>
     </a>
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" style="border-radius: 25%;"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60" style="transform: rotate(-20deg);"/>
     </a>
     <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="50" height="50" style="border-radius: 25%;"/>
+        <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="60" height="60" style="transform: rotate(20deg);"/>
     </a>
     <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust" width="50" height="50" style="border-radius: 25%;"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust" width="60" height="60" style="transform: rotate(-20deg);"/>
     </a>
     <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="50" height="50" style="border-radius: 25%;"/>
+        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="60" height="60" style="transform: rotate(20deg);"/>
     </a>
 </div>
+
 
 
 
