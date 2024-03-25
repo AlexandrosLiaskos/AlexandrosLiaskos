@@ -1,3 +1,9 @@
+![langs](https://github.com/AlexandrosLiaskos/AlexandrosLiaskos/assets/128935863/c6dfeacc-c81d-4c10-b88c-33dc120d6740)
+
+
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/alex_liaskos_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alex_liaskos_" height="30" width="40" /></a>
