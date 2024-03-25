@@ -1,5 +1,4 @@
-![240325_19h43m20s_screenshot](https://github.com/AlexandrosLiaskos/AlexandrosLiaskos/assets/128935863/215e44d2-b4d7-4088-83db-18652f78c2bd)
-
+![image](https://github.com/AlexandrosLiaskos/AlexandrosLiaskos/assets/128935863/be2ac6ed-13ab-46cf-b149-e7e6e8d02c43)
 
 ## <img src="https://github.com/AlexandrosLiaskos/Alexandros-Liaskos/assets/128935863/1de6b213-d86a-44b7-897e-c086e9e2eced" width="30" height="30" style="vertical-align: bottom;" alt="My Setup"> Setup
 
