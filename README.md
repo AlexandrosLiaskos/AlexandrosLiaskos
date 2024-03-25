@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github.com/AlexandrosLiaskos/AlexandrosLiaskos/assets/128935863/be2ac6ed-13ab-46cf-b149-e7e6e8d02c43" alt="Neofetch Screenshot" style="border: 2px solid #000; border-radius: 10px;">
+  <img src="https://github.com/AlexandrosLiaskos/AlexandrosLiaskos/assets/128935863/a34c0c08-9b04-49e2-bb70-68a7d32fe54e" alt="Neofetch Screenshot" style="border: 2px solid #000; border-radius: 10px;">
 </p>
+![240325_19h43m20s_screenshot]()
 
 ## <img src="https://github.com/AlexandrosLiaskos/Alexandros-Liaskos/assets/128935863/1de6b213-d86a-44b7-897e-c086e9e2eced" width="30" height="30" style="vertical-align: bottom;" alt="My Setup"> Setup
 
