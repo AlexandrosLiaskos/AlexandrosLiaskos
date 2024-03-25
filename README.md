@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! Soy Alexandros Liaskos</h1>
+<h1 align="center">¡Hola! It's Alexandros Liaskos</h1>
 <h3 align="center">A Developer enthusiast and explorer of the unknown..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexandrosliaskos&label=Profile%20views&color=0e75b6&style=flat" alt="alexandrosliaskos" /> </p>
