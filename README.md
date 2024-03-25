@@ -1,6 +1,3 @@
-<h1 align="center">¡Hola! I'm Alex</h1>
-<h3 align="center">A Developer enthusiast and explorer of the unknown..</h3>
-
 - 🔭 I’m currently working on [TauNest](https://github.com/AlexandrosLiaskos/TauNest)
 
 - 🌱 I’m currently learning **Elixir, Gleam**
