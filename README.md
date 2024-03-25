@@ -1,4 +1,5 @@
-![1k_subs_by_kirokaze_dbqyp52](https://github.com/AlexandrosLiaskos/AlexandrosLiaskos/assets/128935863/2d1d0a95-105d-49dc-bf7d-8871ae58f54c)
+![240325_19h43m20s_screenshot](https://github.com/AlexandrosLiaskos/AlexandrosLiaskos/assets/128935863/215e44d2-b4d7-4088-83db-18652f78c2bd)
+
 
 ## <img src="https://github.com/AlexandrosLiaskos/Alexandros-Liaskos/assets/128935863/1de6b213-d86a-44b7-897e-c086e9e2eced" width="30" height="30" style="vertical-align: bottom;" alt="My Setup"> Setup
 
