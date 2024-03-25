@@ -3,18 +3,6 @@
 </p>
 
 ## <img src="https://github.com/AlexandrosLiaskos/Alexandros-Liaskos/assets/128935863/1de6b213-d86a-44b7-897e-c086e9e2eced" width="30" height="30" style="vertical-align: bottom;" alt="My Setup"> Setup
-
-
-- **Laptop:** Asus Zenbook 14x Space Edition
-- **Operating System:** Arch Linux (btw)
-- **Window Manager:** Hyprland
-- **Terminal:** Kitty
-- **Shell:** Nushell
-- **Prompt:** Starship
-- **Directory Navigation:** Zoxide
-- **Editors:** Helix, Felix
-
-## Coding 💻
 - **Programming Languages:** Go, Rust, Bash, Python
 - **Learning:** Elixir, Gleam
 
