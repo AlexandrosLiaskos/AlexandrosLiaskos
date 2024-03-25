@@ -1,5 +1,6 @@
 
-## My Setup ![laptop](https://github.com/AlexandrosLiaskos/Alexandros-Liaskos/assets/128935863/998de09b-9d1f-4bd7-813d-118ee4f86fa2)
+## My Setup ![laptop](https://github.com/AlexandrosLiaskos/Alexandros-Liaskos/assets/128935863/1de6b213-d86a-44b7-897e-c086e9e2eced)
+
 
 - **Laptop:** Asus Zenbook 14x Space Edition
 - **Operating System:** Arch Linux (btw)
