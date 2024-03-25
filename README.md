@@ -1,6 +1,3 @@
-![image](https://github.com/AlexandrosLiaskos/AlexandrosLiaskos/assets/128935863/52d7b26c-6db4-42d9-9a9a-1654c7e4a628)
-
-
 <p align="center">
   <img src="https://github.com/AlexandrosLiaskos/AlexandrosLiaskos/assets/128935863/a34c0c08-9b04-49e2-bb70-68a7d32fe54e" alt="Neofetch Screenshot" style="border: 2px solid #000; border-radius: 10px;">
 </p>
