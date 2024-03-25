@@ -1,8 +1,6 @@
 <h1 align="center">¡Hola! I'm Alex</h1>
 <h3 align="center">A Developer enthusiast and explorer of the unknown..</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexandrosliaskos" alt="alexandrosliaskos" /></a> </p>
-
 - 🔭 I’m currently working on [TauNest](https://github.com/AlexandrosLiaskos/TauNest)
 
 - 🌱 I’m currently learning **Elixir, Gleam**
