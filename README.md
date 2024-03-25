@@ -28,7 +28,7 @@
         <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="60" height="60"/>
     </a>
     <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer" style="text-decoration: none;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust" width="60" height="60"/>
+        <img src="https://github.com/AlexandrosLiaskos/AlexandrosLiaskos/assets/128935863/2f0f0ec5-558e-489d-8fdf-f1020bdfcb38" alt="Rust" width="60" height="60"/>
     </a>
     <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer" style="text-decoration: none;">
         <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="60" height="60"/>
