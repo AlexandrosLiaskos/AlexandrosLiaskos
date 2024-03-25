@@ -3,7 +3,7 @@
 </p>
 
 ## <img src="https://github.com/AlexandrosLiaskos/Alexandros-Liaskos/assets/128935863/1de6b213-d86a-44b7-897e-c086e9e2eced" width="30" height="30" style="vertical-align: bottom;" alt="My Setup"> Programming
-<img src="https://github.com/AlexandrosLiaskos/AlexandrosLiaskos/assets/128935863/27f41921-c69d-4904-b82b-6521db4dce1e" width="30" height="30" style="vertical-align: bottom;" alt="My Setup"> GO
+<img src="https://github.com/AlexandrosLiaskos/AlexandrosLiaskos/assets/128935863/27f41921-c69d-4904-b82b-6521db4dce1e" width="50" height="30" style="vertical-align: bottom;" alt="My Setup"> 
 
  Rust, Bash, Python
 - **Learning:** Elixir, Gleam
