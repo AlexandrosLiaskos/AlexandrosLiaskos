@@ -65,5 +65,33 @@
         <img src="https://github.com/AlexandrosLiaskos/AlexandrosLiaskos/assets/128935863/52546972-ef27-49c6-bdc4-cbd26757f4a7" alt="YAML" width="60" height="60"/>
     </a>
     
+</div>
+
+</p>
+<h3 align="left">Learning:</h3>
+<div align="left" style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
+    <a href="https://redis.io/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+    <img src="https://github.com/AlexandrosLiaskos/AlexandrosLiaskos/assets/128935863/77f388e6-3a9a-4ef6-aa34-f025601e5629" alt="Redis" width="60" height="60"/>
+</a>
+
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+    <img src="https://github.com/AlexandrosLiaskos/AlexandrosLiaskos/assets/128935863/4aaeefc9-9a2b-4d32-a878-4664bafca4c8" alt="Git" width="60" height="60"/>
+</a>
+
+<a href="https://elixir-lang.org/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+    <img src="https://github.com/AlexandrosLiaskos/AlexandrosLiaskos/assets/128935863/9521e7fc-9a6c-4e4c-b9eb-e5fa781efa6e" alt="Elixir" width="60" height="60"/>
+</a>
+
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+    <img src="https://github.com/AlexandrosLiaskos/AlexandrosLiaskos/assets/128935863/30ba1e78-7677-4a10-9056-a9e8f4e52012" alt="Docker" width="60" height="60"/>
+</a>
+
+<a href="https://kubernetes.io/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+    <img src="https://github.com/AlexandrosLiaskos/AlexandrosLiaskos/assets/128935863/633363b1-723f-48e3-8721-1f6a4dcbda88" alt="Kubernetes" width="60" height="60"/>
+</a>
+
+<a href="https://gleam.run/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+    <img src="https://github.com/AlexandrosLiaskos/AlexandrosLiaskos/assets/128935863/c2550ba5-5033-40af-8638-ff85040f80d7" alt="Gleam" width="60" height="60"/>
+</a>
 
 </div>
