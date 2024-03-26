@@ -65,7 +65,7 @@
         <img src="https://github.com/AlexandrosLiaskos/AlexandrosLiaskos/assets/128935863/4bce3988-9490-4621-9291-0dab97243042" alt="TOML" width="60" height="60"/>
     </a>
     <a href="https://yaml.org/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-        <img src="https://github.com/AlexandrosLiaskos/AlexandrosLiaskos/assets/128935863/52546972-ef27-49c6-bdc4-cbd26757f4a7" alt="YAML" width="60" height="60"/>
+        <img src="https://github.com/AlexandrosLiaskos/AlexandrosLiaskos/assets/128935863/5eee7d82-a636-4f17-a974-160a4a312c26" alt="YAML" width="60" height="60"/>
     </a>
     
 </div>
