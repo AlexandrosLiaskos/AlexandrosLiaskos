@@ -25,11 +25,8 @@
     <a href="https://gohugo.io/" target="_blank" rel="noreferrer" style="text-decoration: none;">
         <img src="https://api.iconify.design/logos-hugo.svg" alt="Hugo" width="60" height="60"/>
     </a>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="60" height="60"/>
-    </a>
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="60" height="60"/>
+    <a href="https://archlinux.org/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Arch-Linux(btw)" width="60" height="60"/>
     </a>
     <a href="https://www.python.org" target="_blank" rel="noreferrer" style="text-decoration: none;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
