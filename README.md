@@ -1,4 +1,3 @@
-![image](https://github.com/AlexandrosLiaskos/AlexandrosLiaskos/assets/128935863/439f7197-ecc5-4770-8048-c18ae442d99a)
 
 
 
