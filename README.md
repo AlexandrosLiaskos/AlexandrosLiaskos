@@ -17,13 +17,13 @@
 <h3 align="left">Languages and Tools:</h3>
 <div align="left" style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="60" height="60"/>
+        <img src="https://github.com/AlexandrosLiaskos/AlexandrosLiaskos/assets/128935863/74b815d7-e943-4ae6-aec4-53e3b2d33706" alt="Bash" width="60" height="60"/>
     </a>
     <a href="https://golang.org" target="_blank" rel="noreferrer" style="text-decoration: none;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="60" height="60"/>
     </a>
     <a href="https://gohugo.io/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-        <img src="https://api.iconify.design/logos-hugo.svg" alt="Hugo" width="60" height="60"/>
+        <img src="https://github.com/AlexandrosLiaskos/AlexandrosLiaskos/assets/128935863/40b9db1a-9ad2-417e-9901-4a1618b6742c" alt="Hugo" width="60" height="60"/>
     </a>
     <a href="https://archlinux.org/" target="_blank" rel="noreferrer" style="text-decoration: none;">
         <img src="https://github.com/AlexandrosLiaskos/AlexandrosLiaskos/assets/128935863/a9740ce8-a3d7-417f-a558-dbbc34546c06" alt="Arch-Linux(btw)" width="60" height="60"/>
