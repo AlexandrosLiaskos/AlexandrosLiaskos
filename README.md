@@ -49,7 +49,7 @@
     </a>
      </a>
     <a href="https://nodejs.org/en" target="_blank" rel="noreferrer" style="text-decoration: none;">
-        <img src="https://github.com/AlexandrosLiaskos/AlexandrosLiaskos/assets/128935863/9d2f9990-cff2-4a92-aa88-cd2996fb0715" alt="NodeJS" width="100" height="60"/>
+        <img src="https://github.com/AlexandrosLiaskos/AlexandrosLiaskos/assets/128935863/9d2f9990-cff2-4a92-aa88-cd2996fb0715" alt="NodeJS" width="150" height="60"/>
     </a>
 
 </div>
