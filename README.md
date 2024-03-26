@@ -14,7 +14,7 @@
 </div>
 
 </p>
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Langs, Tools and Tech:</h3>
 <div align="left" style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer" style="text-decoration: none;">
         <img src="https://github.com/AlexandrosLiaskos/AlexandrosLiaskos/assets/128935863/74b815d7-e943-4ae6-aec4-53e3b2d33706" alt="Bash" width="60" height="60"/>
@@ -68,7 +68,7 @@
 </div>
 
 </p>
-<h3 align="left">Learning:</h3>
+<h3 align="left">Learning Queue:</h3>
 <div align="left" style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
     <a href="https://redis.io/" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img src="https://github.com/AlexandrosLiaskos/AlexandrosLiaskos/assets/128935863/77f388e6-3a9a-4ef6-aa34-f025601e5629" alt="Redis" width="60" height="60"/>
