@@ -1,6 +1,5 @@
-![240326_05h57m03s_screenshot](https://github.com/AlexandrosLiaskos/AlexandrosLiaskos/assets/128935863/e4f0389d-cfcd-4198-8e03-84c072ee4c06)
-
-![MasterHead](https://github.com/AlexandrosLiaskos/AlexandrosLiaskos/assets/128935863/d550e5fd-a1e6-49de-9b49-adee0c2936b9)
+<img align="left" src="https://github.com/AlexandrosLiaskos/AlexandrosLiaskos/assets/128935863/e4f0389d-cfcd-4198-8e03-84c072ee4c06" >
+<img align="right" src="https://github.com/AlexandrosLiaskos/AlexandrosLiaskos/assets/128935863/d550e5fd-a1e6-49de-9b49-adee0c2936b9" >
 
 
 
