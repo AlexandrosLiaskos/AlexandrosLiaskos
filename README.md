@@ -82,7 +82,7 @@
 </a>
 
 <a href="https://elixir-lang.org/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://github.com/AlexandrosLiaskos/AlexandrosLiaskos/assets/128935863/9521e7fc-9a6c-4e4c-b9eb-e5fa781efa6e" alt="Elixir" width="60" height="60"/>
+    <img src="https://github.com/AlexandrosLiaskos/AlexandrosLiaskos/assets/128935863/9521e7fc-9a6c-4e4c-b9eb-e5fa781efa6e" alt="Elixir" width="40" height="60"/>
 </a>
 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
