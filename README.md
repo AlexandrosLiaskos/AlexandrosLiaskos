@@ -1,5 +1,20 @@
-<img align="left" width="400px" src="https://github.com/AlexandrosLiaskos/AlexandrosLiaskos/assets/128935863/e4f0389d-cfcd-4198-8e03-84c072ee4c06" >
+<img align="left" width="400px" src="https://github.com/AlexandrosLiaskos/AlexandrosLiaskos/assets/128935863/e4f0389d-cfcd-4198-8e03-84c072ee4c06" > ## Hey, I'm A Alex!! Just a Dev & CLI Enthusiast..
 <img align="right" width="400px" src="https://github.com/AlexandrosLiaskos/AlexandrosLiaskos/assets/128935863/d550e5fd-a1e6-49de-9b49-adee0c2936b9" >
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -39,6 +54,26 @@
         <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="60" height="60"/>
     </a>
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Media 🎬
 - **Favorite YouTube Channels:** FireShip, Beyond Fireship, Dreams of Code, Dreams of Autonomy, b001, Engineer Man, 3Blue1Brown, Reducible, ByteByteGo, IBM Technology, No Boilerplate, DevOps Toolbox, devaslife, Code to the moon, Let's Get Rusty, aarthificial, NeuralNine, bashbunni, NetworkChuck, Chris Titus Tech, the roadmap, Computerphile, Domain of Science, Quanta Magazine, Navek
