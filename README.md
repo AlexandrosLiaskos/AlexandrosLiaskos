@@ -33,3 +33,16 @@
         <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="60" height="60"/>
     </a>
 </div>
+
+</p>
+<h3 align="left">Projects:</h3>
+<div align="left" style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
+    <a href="https://github.com/AlexandrosLiaskos/TauNest" target="_blank" rel="noreferrer" style="text-decoration: none;">
+        <img src="https://github.com/AlexandrosLiaskos/TauNest/assets/128935863/85fdfeed-fc2f-4c9d-9019-0e089b45c45f" alt="TauNest" width="60" height="60"/>
+    </a>
+    <a href="https://github.com/AlexandrosLiaskos/CopF" target="_blank" rel="noreferrer" style="text-decoration: none;">
+        <img src="https://github.com/AlexandrosLiaskos/CopF/assets/128935863/aebfd2a8-cc4d-45e5-9e71-ec28e6166b44" alt="CopF" width="60" height="60"/>
+    </a>
+
+</div>
+
