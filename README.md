@@ -1,4 +1,4 @@
-![langs](https://github.com/AlexandrosLiaskos/AlexandrosLiaskos/assets/128935863/126bd4bb-5438-43fb-883d-1799fba398c1)
+![image](https://github.com/AlexandrosLiaskos/AlexandrosLiaskos/assets/128935863/439f7197-ecc5-4770-8048-c18ae442d99a)
 
 
 
