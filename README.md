@@ -45,7 +45,7 @@
     </a>
      </a>
     <a href="https://ecma-international.org/publications-and-standards/standards/ecma-262/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-        <img src="https://github.com/AlexandrosLiaskos/AlexandrosLiaskos/assets/128935863/8b3eb71f-7ecd-4e56-954e-fbcb5f3f485b" alt="JavaScript" width="60" height="60"/>
+        <img src="https://github.com/AlexandrosLiaskos/AlexandrosLiaskos/assets/128935863/af13cd77-2ddb-441b-8ce0-ef6f76b6222b" alt="JavaScript" width="60" height="60"/>
     </a>
      </a>
     <a href="https://nodejs.org/en" target="_blank" rel="noreferrer" style="text-decoration: none;">
