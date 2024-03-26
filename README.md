@@ -52,5 +52,9 @@
     <a href="https://html.spec.whatwg.org/" target="_blank" rel="noreferrer" style="text-decoration: none;">
         <img src="https://github.com/AlexandrosLiaskos/AlexandrosLiaskos/assets/128935863/313da35a-522b-4b26-b885-6551ac9baa44" alt="HTML" width="60" height="60"/>
     </a>
+    <a href="https://daringfireball.net/projects/markdown/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+        <img src="https://github.com/AlexandrosLiaskos/AlexandrosLiaskos/assets/128935863/599698f5-4e8e-4711-95a0-ee262f72fda4" alt="MD" width="60" height="60"/>
+    </a>
+
 
 </div>
