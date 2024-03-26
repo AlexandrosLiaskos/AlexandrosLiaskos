@@ -55,6 +55,10 @@
     <a href="https://daringfireball.net/projects/markdown/" target="_blank" rel="noreferrer" style="text-decoration: none;">
         <img src="https://github.com/AlexandrosLiaskos/AlexandrosLiaskos/assets/128935863/599698f5-4e8e-4711-95a0-ee262f72fda4" alt="MD" width="60" height="60"/>
     </a>
+    <a href="https://www.json.org/json-en.html" target="_blank" rel="noreferrer" style="text-decoration: none;">
+        <img src="https://github.com/AlexandrosLiaskos/AlexandrosLiaskos/assets/128935863/e71548ce-5b3f-4785-b4b4-9c3483195a53" alt="JSON" width="60" height="60"/>
+    </a>
+
 
 
 </div>
