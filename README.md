@@ -62,7 +62,7 @@
         <img src="https://github.com/AlexandrosLiaskos/AlexandrosLiaskos/assets/128935863/e71548ce-5b3f-4785-b4b4-9c3483195a53" alt="JSON" width="60" height="60"/>
     </a>
     <a href="https://toml.io/en/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-        <img src="https://github.com/AlexandrosLiaskos/AlexandrosLiaskos/assets/128935863/4bce3988-9490-4621-9291-0dab97243042" alt="TOML" width="60" height="60"/>
+        <img src="https://github.com/AlexandrosLiaskos/AlexandrosLiaskos/assets/128935863/9e239ecb-cb58-4e12-b60b-bd693f744891" alt="TOML" width="60" height="60"/>
     </a>
     <a href="https://yaml.org/" target="_blank" rel="noreferrer" style="text-decoration: none;">
         <img src="https://github.com/AlexandrosLiaskos/AlexandrosLiaskos/assets/128935863/5eee7d82-a636-4f17-a974-160a4a312c26" alt="YAML" width="60" height="60"/>
