@@ -1,5 +1,5 @@
-<img align="left" width="200px" src="https://github.com/AlexandrosLiaskos/AlexandrosLiaskos/assets/128935863/e4f0389d-cfcd-4198-8e03-84c072ee4c06" >
-<img align="right" width="200px" src="https://github.com/AlexandrosLiaskos/AlexandrosLiaskos/assets/128935863/d550e5fd-a1e6-49de-9b49-adee0c2936b9" >
+<img align="left" width="400px" src="https://github.com/AlexandrosLiaskos/AlexandrosLiaskos/assets/128935863/e4f0389d-cfcd-4198-8e03-84c072ee4c06" >
+<img align="right" width="4200px" src="https://github.com/AlexandrosLiaskos/AlexandrosLiaskos/assets/128935863/d550e5fd-a1e6-49de-9b49-adee0c2936b9" >
 
 
 
