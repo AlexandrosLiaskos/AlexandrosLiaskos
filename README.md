@@ -43,4 +43,8 @@
     <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer" style="text-decoration: none;">
         <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="60" height="60"/>
     </a>
+     </a>
+    <a href="https://ecma-international.org/publications-and-standards/standards/ecma-262/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+        <img src="https://github.com/AlexandrosLiaskos/AlexandrosLiaskos/assets/128935863/8b3eb71f-7ecd-4e56-954e-fbcb5f3f485b" alt="JavaScript" width="60" height="60"/>
+    </a>
 </div>
