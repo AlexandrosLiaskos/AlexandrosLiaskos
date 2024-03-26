@@ -2,11 +2,6 @@
 
 ![Neofetch](https://github.com/AlexandrosLiaskos/AlexandrosLiaskos/assets/128935863/75ba1575-83be-4aff-bd6f-ee00187401e4)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/alex_liaskos_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alex_liaskos_" height="30" width="40" /></a>
-<a href="https://medium.com/@alexliaskosga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@alexliaskosga" height="30" width="40" /></a>
-    
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <div align="left" style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
@@ -38,28 +33,3 @@
         <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="60" height="60"/>
     </a>
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Media 🎬
-- **Favorite YouTube Channels:** FireShip, Beyond Fireship, Dreams of Code, Dreams of Autonomy, b001, Engineer Man, 3Blue1Brown, Reducible, ByteByteGo, IBM Technology, No Boilerplate, DevOps Toolbox, devaslife, Code to the moon, Let's Get Rusty, aarthificial, NeuralNine, bashbunni, NetworkChuck, Chris Titus Tech, the roadmap, Computerphile, Domain of Science, Quanta Magazine, Navek
-- **News Sources:** Daily.dev, Medium, Quanta Magazine
-- **Podcasts:** Breaking Math, Changelog Media, You Are Not So Smart, Classic Audiobook Collection
