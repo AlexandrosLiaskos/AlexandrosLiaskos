@@ -1,9 +1,14 @@
-## Hey, I'm A Alex!! Just a Dev & CLI Enthusiast..
+<p align="center">
+  <img src="https://github.com/AlexandrosLiaskos/AlexandrosLiaskos/assets/128935863/e4f0389d-cfcd-4198-8e03-84c072ee4c06" width="600px" />
+</p>
 
-<img align="center" width="600px" src="https://github.com/AlexandrosLiaskos/AlexandrosLiaskos/assets/128935863/e4f0389d-cfcd-4198-8e03-84c072ee4c06" > 
-<img align="center" width="600px" src="https://github.com/AlexandrosLiaskos/AlexandrosLiaskos/assets/128935863/d550e5fd-a1e6-49de-9b49-adee0c2936b9" >
+<h2 align="right">Hey, I'm Alex!!</h2>
 
+<p align="center">
+  <img src="https://github.com/AlexandrosLiaskos/AlexandrosLiaskos/assets/128935863/d550e5fd-a1e6-49de-9b49-adee0c2936b9" width="600px" />
+</p>
 
+<h3 align="left">Just a Dev & CLI Enthusiast..</h3>
 
 
 
