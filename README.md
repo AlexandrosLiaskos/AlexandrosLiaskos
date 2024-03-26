@@ -20,7 +20,7 @@
         <img src="https://github.com/AlexandrosLiaskos/AlexandrosLiaskos/assets/128935863/74b815d7-e943-4ae6-aec4-53e3b2d33706" alt="Bash" width="60" height="60"/>
     </a>
     <a href="https://www.esri.com/en-us/arcgis/about-arcgis/overview?rsource=%2Fsoftware%2Farcgis" target="_blank" rel="noreferrer" style="text-decoration: none;">
-        <img src="https://github.com/AlexandrosLiaskos/AlexandrosLiaskos/assets/128935863/d891a49d-f95a-4cdb-a3a0-ff8dc888c0ee" alt="ArcGIS" width="60" height="60"/>
+        <img src="https://github.com/AlexandrosLiaskos/AlexandrosLiaskos/assets/128935863/21090db7-259c-4435-9ca7-fc41b42792ef" alt="ArcGIS" width="60" height="60"/>
     </a>
     <a href="https://golang.org" target="_blank" rel="noreferrer" style="text-decoration: none;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="60" height="60"/>
@@ -44,7 +44,7 @@
         <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="60" height="60"/>
     </a>
     <a href="https://ecma-international.org/publications-and-standards/standards/ecma-262/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-        <img src="https://github.com/AlexandrosLiaskos/AlexandrosLiaskos/assets/128935863/af13cd77-2ddb-441b-8ce0-ef6f76b6222b" alt="JavaScript" width="60" height="60"/>
+        <img src="https://github.com/AlexandrosLiaskos/AlexandrosLiaskos/assets/128935863/af13cd77-2ddb-441b-8ce0-ef6f76b6222b" alt="JS" width="60" height="60"/>
     </a>
     <a href="https://nodejs.org/en" target="_blank" rel="noreferrer" style="text-decoration: none;">
         <img src="https://github.com/AlexandrosLiaskos/AlexandrosLiaskos/assets/128935863/78146682-3992-4c52-be26-c44cab4e7054" alt="NodeJS" width="60" height="60"/>
