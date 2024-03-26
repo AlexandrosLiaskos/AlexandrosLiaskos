@@ -40,13 +40,17 @@
     <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer" style="text-decoration: none;">
         <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="60" height="60"/>
     </a>
-     </a>
     <a href="https://ecma-international.org/publications-and-standards/standards/ecma-262/" target="_blank" rel="noreferrer" style="text-decoration: none;">
         <img src="https://github.com/AlexandrosLiaskos/AlexandrosLiaskos/assets/128935863/af13cd77-2ddb-441b-8ce0-ef6f76b6222b" alt="JavaScript" width="60" height="60"/>
     </a>
-     </a>
     <a href="https://nodejs.org/en" target="_blank" rel="noreferrer" style="text-decoration: none;">
         <img src="https://github.com/AlexandrosLiaskos/AlexandrosLiaskos/assets/128935863/78146682-3992-4c52-be26-c44cab4e7054" alt="NodeJS" width="60" height="60"/>
+    </a>
+    <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer" style="text-decoration: none;">
+        <img src="https://github.com/AlexandrosLiaskos/AlexandrosLiaskos/assets/128935863/3167fe0c-90e6-4aeb-8973-8f7a55c2f076" alt="CSS" width="60" height="60"/>
+    </a>
+    <a href="https://html.spec.whatwg.org/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+        <img src="https://github.com/AlexandrosLiaskos/AlexandrosLiaskos/assets/128935863/313da35a-522b-4b26-b885-6551ac9baa44" alt="HTML" width="60" height="60"/>
     </a>
 
 </div>
