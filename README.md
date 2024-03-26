@@ -58,7 +58,11 @@
     <a href="https://www.json.org/json-en.html" target="_blank" rel="noreferrer" style="text-decoration: none;">
         <img src="https://github.com/AlexandrosLiaskos/AlexandrosLiaskos/assets/128935863/e71548ce-5b3f-4785-b4b4-9c3483195a53" alt="JSON" width="60" height="60"/>
     </a>
+    <a href="https://toml.io/en/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+        <img src="https://github.com/AlexandrosLiaskos/AlexandrosLiaskos/assets/128935863/97b5c2b3-5b6e-4457-8e9c-cbf9e9ffa016" alt="TOML" width="60" height="60"/>
+    </a>
 
+    
 
 
 </div>
