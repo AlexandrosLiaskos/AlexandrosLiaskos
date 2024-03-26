@@ -1,15 +1,6 @@
 ![Head](https://github.com/AlexandrosLiaskos/AlexandrosLiaskos/assets/128935863/3e052711-75a0-4b58-a5c4-376d5aedfb44)
 
-
-
-
-
-
-
-
-
-
-
+![Neofetch](https://github.com/AlexandrosLiaskos/AlexandrosLiaskos/assets/128935863/75ba1575-83be-4aff-bd6f-ee00187401e4)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
