@@ -29,7 +29,7 @@
         <img src="https://github.com/AlexandrosLiaskos/AlexandrosLiaskos/assets/128935863/40b9db1a-9ad2-417e-9901-4a1618b6742c" alt="Hugo" width="60" height="60"/>
     </a>
     <a href="https://archlinux.org/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-        <img src="https://github.com/AlexandrosLiaskos/AlexandrosLiaskos/assets/128935863/a9740ce8-a3d7-417f-a558-dbbc34546c06" alt="Arch-Linux(btw)" width="60" height="60"/>
+        <img src="https://github.com/AlexandrosLiaskos/AlexandrosLiaskos/assets/128935863/a9740ce8-a3d7-417f-a558-dbbc34546c06" alt="Arch-Linux(btw)" width="50" height="60"/>
     </a>
     <a href="https://www.python.org" target="_blank" rel="noreferrer" style="text-decoration: none;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
