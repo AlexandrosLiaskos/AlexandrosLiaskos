@@ -6,7 +6,7 @@
 <h3 align="left">Projects:</h3>
 <div align="left" style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
     <a href="https://github.com/AlexandrosLiaskos/TauNest" target="_blank" rel="noreferrer" style="text-decoration: none;">
-        <img src="https://github.com/AlexandrosLiaskos/AlexandrosLiaskos/assets/128935863/004e2343-8538-4573-b2db-94d04e84e6a5" alt="TauNest" width="60" height="60"/>
+        <img src="https://github.com/AlexandrosLiaskos/AlexandrosLiaskos/assets/128935863/736a3f70-fe64-4d6a-a51d-54df85c377b0" alt="TauNest" width="60" height="60"/>
     </a>
     <a href="https://github.com/AlexandrosLiaskos/CopF" target="_blank" rel="noreferrer" style="text-decoration: none;">
         <img src="https://github.com/AlexandrosLiaskos/CopF/assets/128935863/aebfd2a8-cc4d-45e5-9e71-ec28e6166b44" alt="CopF" width="60" height="60"/>
