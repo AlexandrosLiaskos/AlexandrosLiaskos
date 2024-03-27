@@ -12,10 +12,10 @@
         <img src="https://github.com/AlexandrosLiaskos/CopF/assets/128935863/aebfd2a8-cc4d-45e5-9e71-ec28e6166b44" alt="CopF" width="60" height="60"/>
     </a>
     <a href="https://github.com/AlexandrosLiaskos/SWHist" target="_blank" rel="noreferrer" style="text-decoration: none;">
-        <img src="https://github.com/AlexandrosLiaskos/Software_Innovators/assets/128935863/684bfbcd-bce9-411b-9ca5-b2df0e3a1ecf" alt="SWHist" width="60" height="60"/>
+        <img src="https://github.com/AlexandrosLiaskos/AlexandrosLiaskos/assets/128935863/2a2dc206-7c1f-47c4-b85b-ef580f66dc65" alt="SWHist" width="60" height="60"/>
     </a>
     <a href="https://github.com/AlexandrosLiaskos/ArchDevKit" target="_blank" rel="noreferrer" style="text-decoration: none;">
-        <img src="https://github.com/AlexandrosLiaskos/AlexandrosLiaskos/assets/128935863/ec6d6a16-d88b-4af8-a9a9-a4852e1dbd5d" alt="ArchDevKit" width="60" height="60"/>
+        <img src="https://github.com/AlexandrosLiaskos/AlexandrosLiaskos/assets/128935863/9032c1df-05d7-4ac6-a4d9-bc28c2023ec6" alt="ArchDevKit" width="60" height="60"/>
     </a>
 
 </div>
@@ -74,7 +74,7 @@
     <a href="https://yaml.org/" target="_blank" rel="noreferrer" style="text-decoration: none;">
         <img src="https://github.com/AlexandrosLiaskos/AlexandrosLiaskos/assets/128935863/5eee7d82-a636-4f17-a974-160a4a312c26" alt="YAML" width="60" height="60"/>
     </a>
-    
+
 </div>
 
 </p>
