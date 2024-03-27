@@ -15,9 +15,9 @@
         <img src="https://github.com/AlexandrosLiaskos/Software_Innovators/assets/128935863/684bfbcd-bce9-411b-9ca5-b2df0e3a1ecf" alt="SWHist" width="60" height="60"/>
     </a>
     <a href="https://github.com/AlexandrosLiaskos/ArchDevKit" target="_blank" rel="noreferrer" style="text-decoration: none;">
-        <img src="https://github.com/AlexandrosLiaskos/AlexandrosLiaskos/assets/128935863/155f0551-6f9d-4b53-8c21-98c142543954" alt="ArchDevKit" width="60" height="60"/>
+        <img src="https://github.com/AlexandrosLiaskos/AlexandrosLiaskos/assets/128935863/ec6d6a16-d88b-4af8-a9a9-a4852e1dbd5d" alt="ArchDevKit" width="60" height="60"/>
     </a>
-    
+
 </div>
 
 </p>
