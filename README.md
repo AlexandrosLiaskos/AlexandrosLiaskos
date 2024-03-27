@@ -11,8 +11,11 @@
     <a href="https://github.com/AlexandrosLiaskos/CopF" target="_blank" rel="noreferrer" style="text-decoration: none;">
         <img src="https://github.com/AlexandrosLiaskos/CopF/assets/128935863/aebfd2a8-cc4d-45e5-9e71-ec28e6166b44" alt="CopF" width="60" height="60"/>
     </a>
-    <a href="https://github.com/AlexandrosLiaskos/Software_Innovators" target="_blank" rel="noreferrer" style="text-decoration: none;">
-        <img src="https://github.com/AlexandrosLiaskos/Software_Innovators/assets/128935863/684bfbcd-bce9-411b-9ca5-b2df0e3a1ecf" alt="Software_Innovators" width="60" height="60"/>
+    <a href="https://github.com/AlexandrosLiaskos/SWHist" target="_blank" rel="noreferrer" style="text-decoration: none;">
+        <img src="https://github.com/AlexandrosLiaskos/Software_Innovators/assets/128935863/684bfbcd-bce9-411b-9ca5-b2df0e3a1ecf" alt="SWHist" width="60" height="60"/>
+    </a>
+    <a href="https://github.com/AlexandrosLiaskos/ArchDevKit" target="_blank" rel="noreferrer" style="text-decoration: none;">
+        <img src="https://github.com/AlexandrosLiaskos/AlexandrosLiaskos/assets/128935863/155f0551-6f9d-4b53-8c21-98c142543954" alt="ArchDevKit" width="60" height="60"/>
     </a>
     
 </div>
