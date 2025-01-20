@@ -14,9 +14,6 @@
     <a href="https://github.com/AlexandrosLiaskos/SWHist" target="_blank" rel="noreferrer" style="text-decoration: none;">
         <img src="https://github.com/AlexandrosLiaskos/AlexandrosLiaskos/assets/128935863/2a2dc206-7c1f-47c4-b85b-ef580f66dc65" alt="SWHist" width="60" height="60"/>
     </a>
-    <a href="https://github.com/AlexandrosLiaskos/ArchDevKit" target="_blank" rel="noreferrer" style="text-decoration: none;">
-        <img src="https://github.com/AlexandrosLiaskos/AlexandrosLiaskos/assets/128935863/9032c1df-05d7-4ac6-a4d9-bc28c2023ec6" alt="ArchDevKit" width="60" height="60"/>
-    </a>
 
 </div>
 
