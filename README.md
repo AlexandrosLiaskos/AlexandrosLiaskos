@@ -7,9 +7,7 @@
   <a href="mailto:alexliaskos@geol.uoa.gr">alexliaskos@geol.uoa.gr</a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1000&color=333333&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Geologist+%26+Researcher+%7C+NKUA;Geoinformatics+%C2%B7+Coastal+Geomorphology+%C2%B7+Scientific+Software" alt="Typing SVG" />
-</p>
+<p align="center"><strong>Geologist & Researcher | NKUA</strong><br>Geoinformatics · Coastal Geomorphology · Scientific Software</p>
 
 ---
 
@@ -63,16 +61,8 @@ Currently pursuing an **MSc in Geographic Information Systems** at NKUA. Publish
 ## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AlexandrosLiaskos&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandrosLiaskos&layout=compact&theme=default&hide_border=true&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexandrosLiaskos&theme=default&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlexandrosLiaskos&theme=minimal&hide_border=true&area=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AlexandrosLiaskos&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=58a6ff" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandrosLiaskos&layout=compact&theme=github_dark&hide_border=true&langs_count=8&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e" />
 </p>
 
 <br>
