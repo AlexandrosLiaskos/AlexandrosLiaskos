@@ -9,8 +9,6 @@
 
 <p align="center"><strong>Geologist & Researcher | NKUA</strong><br>Geoinformatics · Coastal Geomorphology · Scientific Software</p>
 
----
-
 Geologist and researcher at the Department of Geology and Geo-environment of the [National and Kapodistrian University of Athens](https://en.uoa.gr/). Specializing in geoinformatics and coastal geomorphology, with active participation in European research programs ([EO-PERSIST](https://doi.org/10.3030/101086386) Horizon Europe, [TRACE](https://trace.unibuc.ro/) & [Facing Fire](https://facingfire.eu/) ERASMUS+). Experienced in developing scientific and general-purpose digital applications and algorithms.
 
 Currently pursuing an **MSc in Geographic Information Systems** at NKUA. Published in [*Environmental Modelling & Software*](https://doi.org/10.1016/j.envsoft.2025.106705) (IF 4.8) and the [*European Academy of Sciences and Arts*](https://doi.org/10.4081/peasa.12).
