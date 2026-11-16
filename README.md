@@ -69,20 +69,20 @@ Currently pursuing an **MSc in Geographic Information Systems** at NKUA. Publish
 
 | Project | Description | Stack |
 |---------|-------------|-------|
+| [**Lynkeus**](https://github.com/AlexandrosLiaskos/lynkeus) | Web platform for the analysis of surface change with NISAR radar data — [lynkeus.nkua.cloud](https://lynkeus.nkua.cloud/) | TypeScript, Python |
 | [**SatShor**](https://github.com/AlexandrosLiaskos/SatShor) | Satellite shoreline extraction from Sentinel-2 with automated downloads and geometric coverage optimization | Python, scikit-image, rasterio, OR-Tools |
 | [**CVIc**](https://github.com/AlexandrosLiaskos/CVIc) | Web platform for automated Coastal Vulnerability Index assessment with interactive shoreline digitization | React, TypeScript, Leaflet, Turf.js |
 | [**AoI-Segmentation-App**](https://github.com/AlexandrosLiaskos/AoI-Segmentation-App) | Area of Interest boundary drawing with grid segmentation for satellite image acquisition (GEE-compatible) | Flask, Shapely, Mapbox GL JS |
 | [**coord-gr**](https://github.com/AlexandrosLiaskos/coord-gr) | Coordinate transformation between Greek geodetic systems (HATT, EGSA'87, TM3, ED50, WGS84) | JavaScript, Leaflet, Supabase |
-| [**denuchange**](https://github.com/AlexandrosLiaskos/denuchange) | Elevation change detection from satellite data — IAG DENUCHANGE Working Group | React, TypeScript, Supabase |
-| [**UPAFE**](https://github.com/AlexandrosLiaskos/UPAFE) | AI + Z3 solver MCP server for reproducible format extraction from academic papers | Python, Z3, MCP |
 | [**SatAcq**](https://github.com/AlexandrosLiaskos/SatAcq) | Satellite image acquisition tooling | Python |
 
 ## WebGIS
 
 | Project | Description |
 |---------|-------------|
-| [**BeachRocks**](https://alexandrosliaskos.github.io/BeachRocks/) | Interactive map of beach rock formations — TRACE ERASMUS+ deliverable |
-| [**Tombolos**](https://alexandrosliaskos.github.io/Tombolos/) | Interactive map of tombolo formations — TRACE ERASMUS+ deliverable |
+| [**Beachrocks of Earth**](https://evelpidou.nkua.cloud/beachrocks/) | Interactive map of beach rock formations — TRACE ERASMUS+ deliverable |
+| [**Tombolos of Earth**](https://evelpidou.nkua.cloud/tombolos/) | Interactive map of tombolo formations — TRACE ERASMUS+ deliverable |
+| [**Wonders of the Ancient Greek World**](https://github.com/AlexandrosLiaskos/Ancient-Greek-Wonders) | Bilingual interactive atlas of 37 wonders of the ancient Greek world — [liaskos.nkua.cloud](https://liaskos.nkua.cloud/) |
 | [**Lagoons**](https://github.com/uoa-gr/Lagoons) | Greek coastal lagoons with sea-level rise scenarios |
 | [**WebGIS**](https://github.com/uoa-gr/WebGIS) | No-code platform for building interactive WebGIS sites from CSV uploads |
 | [**Historic Floods**](https://historicfloods.org/) | Interactive map of historic flood events |
@@ -93,7 +93,6 @@ Currently pursuing an **MSc in Geographic Information Systems** at NKUA. Publish
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [**Nous**](https://github.com/AlexandrosLiaskos/Nous) | Borderless web browser — no chrome, just content. ~600KB | Rust, wry, WebView2 |
-| [**Nous-Android**](https://github.com/AlexandrosLiaskos/Nous-Android) | Android companion — immersive WebView with gesture navigation (~1MB) | Kotlin, WebView |
 | [**yeet**](https://github.com/AlexandrosLiaskos/yeet) | TUI for uninstalling Windows apps — fuzzy search, ghost detection, smart recovery | Go, Charm TUI |
 | [**zap**](https://github.com/AlexandrosLiaskos/zap) | TUI app launcher — fuzzy search across Start menu, registry, shortcuts | Go, Charm TUI |
 | [**peek**](https://github.com/AlexandrosLiaskos/peek) | Side-by-side directory listing — dirs left, files right | Go, Lipgloss |
