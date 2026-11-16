@@ -13,6 +13,7 @@
 <p align="center">
   <a href="https://github.com/AlexandrosLiaskos?tab=repositories"><img src="https://img.shields.io/github/stars/AlexandrosLiaskos?style=flat&label=Stars&color=555" alt="Total stars" /></a>
   <a href="https://github.com/AlexandrosLiaskos?tab=followers"><img src="https://img.shields.io/github/followers/AlexandrosLiaskos?style=flat&label=Followers&color=555" alt="Followers" /></a>
+  <a href="https://liaskos.eu"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fevelpidou.nkua.cloud%2Fapi%2Fvisits%2Fsummary&query=%24.total&label=Website%20visits&style=flat&color=555" alt="Total website visits" /></a>
 </p>
 
 Geologist and researcher at the Department of Geology and Geo-environment of the [National and Kapodistrian University of Athens](https://en.uoa.gr/), working under the academic supervision and mentorship of Professor Niki Evelpidou on geoinformatics and natural hazards. Develops WebGIS, scientific web applications, websites and scientific software for research datasets, academic organisations and conferences. Takes part in international programmes: EDU4LAND (Erasmus+, Project Manager for NKUA), Changing Coasts and [TRACE](https://trace.unibuc.ro/) (Erasmus+), [EO-PERSIST](https://doi.org/10.3030/101086386) (Horizon Europe) and [Facing Fire](https://facingfire.eu/) (Erasmus+).
@@ -61,40 +62,40 @@ Currently pursuing an **MSc in Geographic Information Systems** at NKUA. Publish
 
 ## Research Software
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [**Lynkeus**](https://github.com/AlexandrosLiaskos/lynkeus) | Web platform for the analysis of surface change with NISAR radar data — [lynkeus.nkua.cloud](https://lynkeus.nkua.cloud/) | TypeScript, Python |
-| [**CVIc**](https://github.com/AlexandrosLiaskos/CVIc) | Web platform that automates Coastal Vulnerability Index calculations, developed within EO-PERSIST (Horizon Europe) — [live](https://alexandrosliaskos.github.io/CVIc/) · [paper](https://doi.org/10.1016/j.envsoft.2025.106705) | React, TypeScript, Leaflet, Turf.js |
-| [**SatShor**](https://github.com/AlexandrosLiaskos/SatShor) | Python toolkit for satellite-derived shorelines from Sentinel-2 images (band 8) with scikit-image minimum thresholding and marching-squares contouring, and a terminal interface for acquiring products through the OData API of the Copernicus Data Space Ecosystem | Python, scikit-image, rasterio |
-| **Least Cost Path (LCP)** | Least Cost Path algorithm in ArcPy, contributing to the associated [publication](http://dx.doi.org/10.2139/ssrn.4594688) | Python, ArcPy |
-| [**AoI-Segmentation-App**](https://github.com/AlexandrosLiaskos/AoI-Segmentation-App) | Area of Interest boundary drawing with grid segmentation for satellite image acquisition (GEE-compatible) | Flask, Shapely, Mapbox GL JS |
-| [**coord-gr**](https://github.com/AlexandrosLiaskos/coord-gr) | Coordinate transformation between Greek geodetic systems (HATT, EGSA'87, TM3, ED50, WGS84) | JavaScript, Leaflet, Supabase |
+| Project | Description | Stack | Visits |
+|---------|-------------|-------|:------:|
+| [**Lynkeus**](https://github.com/AlexandrosLiaskos/lynkeus) | Web platform for the analysis of surface change with NISAR radar data — [lynkeus.nkua.cloud](https://lynkeus.nkua.cloud/) | TypeScript, Python | ![visits](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fevelpidou.nkua.cloud%2Fapi%2Fvisits%2Fsummary&query=%24.sites%5B%27lynkeus%27%5D.visits&label=&style=flat&color=555) |
+| [**CVIc**](https://github.com/AlexandrosLiaskos/CVIc) | Web platform that automates Coastal Vulnerability Index calculations, developed within EO-PERSIST (Horizon Europe) — [live](https://alexandrosliaskos.github.io/CVIc/) · [paper](https://doi.org/10.1016/j.envsoft.2025.106705) | React, TypeScript, Leaflet, Turf.js | ![visits](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fevelpidou.nkua.cloud%2Fapi%2Fvisits%2Fsummary&query=%24.sites%5B%27cvic%27%5D.visits&label=&style=flat&color=555) |
+| [**SatShor**](https://github.com/AlexandrosLiaskos/SatShor) | Python toolkit for satellite-derived shorelines from Sentinel-2 images (band 8) with scikit-image minimum thresholding and marching-squares contouring, and a terminal interface for acquiring products through the OData API of the Copernicus Data Space Ecosystem | Python, scikit-image, rasterio | – |
+| **Least Cost Path (LCP)** | Least Cost Path algorithm in ArcPy, contributing to the associated [publication](http://dx.doi.org/10.2139/ssrn.4594688) | Python, ArcPy | – |
+| [**AoI-Segmentation-App**](https://github.com/AlexandrosLiaskos/AoI-Segmentation-App) | Area of Interest boundary drawing with grid segmentation for satellite image acquisition (GEE-compatible) | Flask, Shapely, Mapbox GL JS | – |
+| [**coord-gr**](https://github.com/AlexandrosLiaskos/coord-gr) | Coordinate transformation between Greek geodetic systems (HATT, EGSA'87, TM3, ED50, WGS84) | JavaScript, Leaflet, Supabase | – |
 
 ## WebGIS
 
-| Project | Description |
-|---------|-------------|
-| [**Historic Floods of Earth**](https://historicfloods.org/) | NKUA-initiated collection of peer-reviewed historic flood datasets, featuring the NKUA dataset for Greece and the HANZE database for Europe |
-| [**February 2026 Storm Surges**](https://evelpidou.nkua.cloud/%CE%9A%CE%B1%CE%BA%CE%BF%CE%BA%CE%B1%CE%B9%CF%81%CE%AF%CE%B1-%CE%A6%CE%B5%CE%B2-2026/) | NKUA dataset of Greek coastal areas affected by the February 2026 storms (event dates, emergency declarations, Natura 2000 status) |
-| [**Geomorphological Map of Naxos**](https://uoa-gr.github.io/naxos/) | Interactive web map of the landforms and lithology of Naxos island, presenting the 1:50,000 geomorphological dataset compiled by NKUA and EAGME |
-| [**Beach Rocks**](https://evelpidou.nkua.cloud/beachrocks/) | Collection of peer-reviewed beachrock datasets initiated at NKUA, featuring the NKUA global dataset — deliverable of the [TRACE](https://trace.unibuc.ro/) Erasmus+ project |
-| [**Tombolo**](https://evelpidou.nkua.cloud/tombolos/) | Collection of peer-reviewed tombolo datasets initiated at NKUA, featuring the NKUA dataset for Greece — deliverable of the [TRACE](https://trace.unibuc.ro/) Erasmus+ project |
-| [**2026 Nepal Cascade Hazard**](https://evelpidou.nkua.cloud/Nepal-Flood-2026/) | Interactive 2D/3D reconstruction and collection of peer-reviewed datasets and literature for the August 2026 cascade hazard in Nepal |
-| [**Earthquakes**](https://evelpidou.nkua.cloud/earthquakes/) | Interactive collection of peer-reviewed and agency earthquake datasets (NOAA and USGS catalogues) |
-| [**Tsunamis**](https://evelpidou.nkua.cloud/tsunamis/) | Interactive collection of peer-reviewed tsunami datasets (NOAA Global Historical Tsunami Database and Greek Tsunami Impact Database) |
-| [**Landslides**](https://evelpidou.nkua.cloud/landslides/) | Interactive collection of peer-reviewed landslide datasets (UGLC, NASA COOLR, Northern Peloponnese inventory) |
-| [**Wildfires**](https://evelpidou.nkua.cloud/wildfires/) | Interactive collection of wildfire and burned-area datasets (EFFIS and MTBS) |
-| [**Wonders of the Ancient Greek World**](https://github.com/AlexandrosLiaskos/Ancient-Greek-Wonders) | Bilingual geographic catalogue of 37 monuments across Greece and the wider ancient Greek world — [live](https://alexandrosliaskos.github.io/Ancient-Greek-Wonders/) |
+| Project | Description | Visits |
+|---------|-------------|:------:|
+| [**Historic Floods of Earth**](https://historicfloods.org/) | NKUA-initiated collection of peer-reviewed historic flood datasets, featuring the NKUA dataset for Greece and the HANZE database for Europe | ![visits](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fevelpidou.nkua.cloud%2Fapi%2Fvisits%2Fsummary&query=%24.sites%5B%27floods%27%5D.visits&label=&style=flat&color=555) |
+| [**February 2026 Storm Surges**](https://evelpidou.nkua.cloud/%CE%9A%CE%B1%CE%BA%CE%BF%CE%BA%CE%B1%CE%B9%CF%81%CE%AF%CE%B1-%CE%A6%CE%B5%CE%B2-2026/) | NKUA dataset of Greek coastal areas affected by the February 2026 storms (event dates, emergency declarations, Natura 2000 status) | ![visits](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fevelpidou.nkua.cloud%2Fapi%2Fvisits%2Fsummary&query=%24.sites%5B%27storm%27%5D.visits&label=&style=flat&color=555) |
+| [**Geomorphological Map of Naxos**](https://uoa-gr.github.io/naxos/) | Interactive web map of the landforms and lithology of Naxos island, presenting the 1:50,000 geomorphological dataset compiled by NKUA and EAGME | – |
+| [**Beach Rocks**](https://evelpidou.nkua.cloud/beachrocks/) | Collection of peer-reviewed beachrock datasets initiated at NKUA, featuring the NKUA global dataset — deliverable of the [TRACE](https://trace.unibuc.ro/) Erasmus+ project | ![visits](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fevelpidou.nkua.cloud%2Fapi%2Fvisits%2Fsummary&query=%24.sites%5B%27beachrocks%27%5D.visits&label=&style=flat&color=555) |
+| [**Tombolo**](https://evelpidou.nkua.cloud/tombolos/) | Collection of peer-reviewed tombolo datasets initiated at NKUA, featuring the NKUA dataset for Greece — deliverable of the [TRACE](https://trace.unibuc.ro/) Erasmus+ project | ![visits](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fevelpidou.nkua.cloud%2Fapi%2Fvisits%2Fsummary&query=%24.sites%5B%27tombolos%27%5D.visits&label=&style=flat&color=555) |
+| [**2026 Nepal Cascade Hazard**](https://evelpidou.nkua.cloud/Nepal-Flood-2026/) | Interactive 2D/3D reconstruction and collection of peer-reviewed datasets and literature for the August 2026 cascade hazard in Nepal | ![visits](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fevelpidou.nkua.cloud%2Fapi%2Fvisits%2Fsummary&query=%24.sites%5B%27nepal-flood-2026%27%5D.visits&label=&style=flat&color=555) |
+| [**Earthquakes**](https://evelpidou.nkua.cloud/earthquakes/) | Interactive collection of peer-reviewed and agency earthquake datasets (NOAA and USGS catalogues) | ![visits](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fevelpidou.nkua.cloud%2Fapi%2Fvisits%2Fsummary&query=%24.sites%5B%27earthquakes%27%5D.visits&label=&style=flat&color=555) |
+| [**Tsunamis**](https://evelpidou.nkua.cloud/tsunamis/) | Interactive collection of peer-reviewed tsunami datasets (NOAA Global Historical Tsunami Database and Greek Tsunami Impact Database) | ![visits](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fevelpidou.nkua.cloud%2Fapi%2Fvisits%2Fsummary&query=%24.sites%5B%27tsunamis%27%5D.visits&label=&style=flat&color=555) |
+| [**Landslides**](https://evelpidou.nkua.cloud/landslides/) | Interactive collection of peer-reviewed landslide datasets (UGLC, NASA COOLR, Northern Peloponnese inventory) | ![visits](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fevelpidou.nkua.cloud%2Fapi%2Fvisits%2Fsummary&query=%24.sites%5B%27landslides%27%5D.visits&label=&style=flat&color=555) |
+| [**Wildfires**](https://evelpidou.nkua.cloud/wildfires/) | Interactive collection of wildfire and burned-area datasets (EFFIS and MTBS) | ![visits](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fevelpidou.nkua.cloud%2Fapi%2Fvisits%2Fsummary&query=%24.sites%5B%27wildfires%27%5D.visits&label=&style=flat&color=555) |
+| [**Wonders of the Ancient Greek World**](https://github.com/AlexandrosLiaskos/Ancient-Greek-Wonders) | Bilingual geographic catalogue of 37 monuments across Greece and the wider ancient Greek world — [live](https://alexandrosliaskos.github.io/Ancient-Greek-Wonders/) | ![visits](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fevelpidou.nkua.cloud%2Fapi%2Fvisits%2Fsummary&query=%24.sites%5B%27ancient-greek-wonders%27%5D.visits&label=&style=flat&color=555) |
 
 ## Websites
 
-| Website | Description |
-|---------|-------------|
-| [**Hellenic Geographical Society (HGS)**](https://hellenic-geographical-society.com/) | Official website of the Society, developed and maintained |
-| [**13th International Conference of the HGS**](https://hellenic-geographical-society.com/en/conference2026) | Conference website, developed and maintained as Webmaster and member of the Organizing Committee |
-| [**5th International IAG DENUCHANGE Workshop**](https://uoa-gr.github.io/denuchange/) | Website of the 5th International Workshop of the IAG DENUCHANGE Working Group, Naxos, 2026 |
-| [**Geological Museum of Apeiranthos**](https://uoa-gr.github.io/geological-museum-apeiranthos/) | Bilingual website presenting the museum's history, collections, gallery, events, learning activities and visitor information |
-| [**Artificially Triggered Nature-based Sand Dunes**](https://uoa-gr.github.io/exp-dunes-naxos/) | Bilingual visitor guide for the NKUA field experiment in nature-based coastal protection at Agios Georgios, Naxos |
+| Website | Description | Visits |
+|---------|-------------|:------:|
+| [**Hellenic Geographical Society (HGS)**](https://hellenic-geographical-society.com/) | Official website of the Society, developed and maintained | – |
+| [**13th International Conference of the HGS**](https://hellenic-geographical-society.com/en/conference2026) | Conference website, developed and maintained as Webmaster and member of the Organizing Committee | – |
+| [**5th International IAG DENUCHANGE Workshop**](https://uoa-gr.github.io/denuchange/) | Website of the 5th International Workshop of the IAG DENUCHANGE Working Group, Naxos, 2026 | ![visits](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fevelpidou.nkua.cloud%2Fapi%2Fvisits%2Fsummary&query=%24.sites%5B%27denuchange%27%5D.visits&label=&style=flat&color=555) |
+| [**Geological Museum of Apeiranthos**](https://uoa-gr.github.io/geological-museum-apeiranthos/) | Bilingual website presenting the museum's history, collections, gallery, events, learning activities and visitor information | ![visits](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fevelpidou.nkua.cloud%2Fapi%2Fvisits%2Fsummary&query=%24.sites%5B%27geological-museum-apeiranthos%27%5D.visits&label=&style=flat&color=555) |
+| [**Artificially Triggered Nature-based Sand Dunes**](https://uoa-gr.github.io/exp-dunes-naxos/) | Bilingual visitor guide for the NKUA field experiment in nature-based coastal protection at Agios Georgios, Naxos | – |
 
 ## System Tools
 
