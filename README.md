@@ -27,8 +27,6 @@ Currently pursuing an **MSc in Geographic Information Systems** at NKUA. Publish
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Lean_4-000000?style=flat" />
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
 </p>
@@ -56,7 +54,6 @@ Currently pursuing an **MSc in Geographic Information Systems** at NKUA. Publish
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tauri-FFC131?style=flat&logo=tauri&logoColor=black" />
   <img src="https://img.shields.io/badge/WebView2-5C2D91?style=flat" />
 </p>
 
@@ -138,16 +135,6 @@ Currently pursuing an **MSc in Geographic Information Systems** at NKUA. Publish
 | [**OpenTransfer**](https://github.com/AlexandrosLiaskos/OpenTransfer) | Serverless peer-to-peer file transfer over WebRTC with PIN-based authentication | HTML5, WebRTC |
 | [**typing-dojo**](https://github.com/AlexandrosLiaskos/typing-dojo) | Interactive typing practice with progress tracking | React, TypeScript, Supabase |
 | [**Awesome Wallpapers**](https://alexandrosliaskos.github.io/Awesome_Wallpapers/) | Wallpaper browsing and downloading | Vue.js, Tailwind CSS |
-
-<br>
-
-## Organization Work
-
-**[@uoa-gr](https://github.com/uoa-gr)** &ensp; University of Athens research group
-&ensp;&ensp; [coastal-storm-surge-GR-2026](https://github.com/uoa-gr/coastal-storm-surge-GR-2026) &middot; [Lagoons](https://github.com/uoa-gr/Lagoons) &middot; [WebGIS](https://github.com/uoa-gr/WebGIS) &middot; [denuchange](https://github.com/uoa-gr/denuchange) &middot; [Olympus](https://github.com/uoa-gr/Olympus)
-
-**[@HGS-web](https://github.com/HGS-web)** &ensp; Hellenic Geographical Society
-&ensp;&ensp; [HGS](https://github.com/HGS-web/HGS) — official website &middot; [hellenic-geographical-society.com](https://hellenic-geographical-society.com/)
 
 <br>
 
